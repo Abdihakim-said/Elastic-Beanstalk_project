@@ -1,0 +1,9 @@
+boto3==1.21.8
+botocore==1.24.8
+Flask==2.0.3
+passlib==1.7.2
+WTForms==2.3.3
+jsons==1.6.1
+itsdangerous==2.1.0
+Werkzeug==2.2.2
+
